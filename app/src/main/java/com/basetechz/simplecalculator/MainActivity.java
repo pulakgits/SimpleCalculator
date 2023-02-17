@@ -51,6 +51,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 break;
             case R.id.button1:
                 currentNumber += "1";
+                break;
             case R.id.button2:
                 currentNumber += "2";
                 break;
